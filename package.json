@@ -1,0 +1,13 @@
+{
+    "name": "UserApi",
+    "version": "2.0.0",
+    "description": "REST API - Users",
+    "dependencies": {
+        "restify": "4.1.1",
+        "restify-errors": "^8.0.2",
+        "save": "2.3.0"
+    },
+    "author": "zvbox",
+    "private": true,
+    "main": "index.js"
+}
